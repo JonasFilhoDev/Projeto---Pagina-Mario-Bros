@@ -1,6 +1,6 @@
 <h1>Site dos irmãos Mario e Luigi</h1>
 <br>
-<p>Projeto criado, utilizando conhecimento adquirido no <a href="http://rodolfomori.com.br/devclub"</a>DevClub.</p>
+<p>Projeto criado, utilizando conhecimento adquirido no <a href="https://devclub.com.br/"</a>DevClub.</p>
 <p>Foi uma ótima oportunidade para aprender novos recursos, com muitos desafios.</p>
 <br>
 <p>E até agora foi um dos projetos que mais gostei de fazer.</p>
